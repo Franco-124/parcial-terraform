@@ -1,0 +1,6 @@
+# Copy to terraform.tfvars and fill in the values. terraform.tfvars is git-ignored.
+project_name       = "parcial-ecs"
+aws_region         = "us-east-1"
+github_repository  = "owner/repo-name"
+github_branch      = "main"
+codeconnection_arn = "arn:aws:codeconnections:us-east-1:123456789012:connection/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
